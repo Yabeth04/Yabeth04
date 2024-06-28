@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yabethvs&label=Profile%20views&color=0e75b6&style=flat" alt="yabethvs" /> </p>
 
-- 🌱 I’m currently learning **Javascript, PHP**
+- 🌱 I’m currently learning **Vue, Javascript and Laravel**
 
 - 📫 How to reach me **yabethvillafuerte@gmail.com**
 
