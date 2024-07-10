@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yabeth. I like programming web.</h1>
+<h1 align="center">Hi 👋, I'm Yabeth. I like programming.</h1>
 <h3 align="center">A passionate of the programming </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yabethvs&label=Profile%20views&color=0e75b6&style=flat" alt="yabethvs" /> </p>
