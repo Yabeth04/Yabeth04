@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm I'm Yabeth.</h1>
-<h3 align="center">A passionate of the programming</h3>
+<h1 align="center">Hi 👋, I'm Yabeth.</h1>
+<h3 align="center">Programming</h3>
 
 - 🌱 in the process of learning **Python, Java**
 
