@@ -10,5 +10,5 @@
 </p>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/1280px-Logo.min.svg.png" alt="laravel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/1280px-Logo.min.svg.png" alt="laravel" width="80" height="40"/>
   </a>
